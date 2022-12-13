@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754953864774",
+    "project_id": "bolo-davaleba",
+    "storage_bucket": "bolo-davaleba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754953864774:android:453e35ea96615f2912ec47",
+        "android_client_info": {
+          "package_name": "com.example.bolodavaleba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754953864774-gjognev1o3n0br152lhl0c6rabaouoit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB27Ua7_1STdXB-XpF3XAM59e5PR-w7fWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754953864774-gjognev1o3n0br152lhl0c6rabaouoit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
